@@ -1,0 +1,2241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\users\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\users\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\results\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\results\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\e-commerce.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\e-commerce.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\extensions\\core\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\extensions\\core\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\smtp\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\smtp\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\interfaces\\smtp\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\interfaces\\smtp\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\extensions\\core\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\extensions\\core\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\e-commerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\e-commerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\security\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\security\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\orders\\orderqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\orders\\orderqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\controllers\\orders\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\controllers\\orders\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\extensions\\graphql\\graphqlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\extensions\\graphql\\graphqlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\orders\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\orders\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\orders\\orderitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\orders\\orderitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\orders\\cancelorder\\cancelorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\orders\\cancelorder\\cancelorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\orders\\cancelorder\\cancelordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\orders\\cancelorder\\cancelordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\enums\\products\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\enums\\products\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\entities\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\products\\productqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\products\\productqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\products\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\products\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\users\\userqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\users\\userqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\controllers\\products\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\controllers\\products\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\wishlists\\wishlistitemqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\wishlists\\wishlistitemqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\wishlists\\wishlistitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\wishlists\\wishlistitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\carts\\cartqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\carts\\cartqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\cart\\additem\\additemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\cart\\additem\\additemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\controllers\\cart\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\controllers\\cart\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\common\\verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\common\\verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\entities\\auth\\emailverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\auth\\emailverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\entities\\users\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\users\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\wishlist\\togglewishlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\wishlist\\togglewishlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\interfaces\\persistence\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\interfaces\\persistence\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\carts\\cartitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\carts\\cartitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\carts\\carttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\carts\\carttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\entities\\carts\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\carts\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\entities\\carts\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\carts\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\entities\\wishlist\\whishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\wishlist\\whishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\users\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\users\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\controllers\\wishlist\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\controllers\\wishlist\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\controllers\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\controllers\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\wishlist\\togglewishlistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\wishlist\\togglewishlistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\wishlist\\togglewishlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\wishlist\\togglewishlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\verifyemail\\verifyemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\verifyemail\\verifyemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\verifyemail\\verifyemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\verifyemail\\verifyemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\verifyemailchange\\verifyemailchangecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\verifyemailchange\\verifyemailchangecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\forgotpassword\\forgotpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\forgotpassword\\forgotpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\resetpassword\\resetpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\resetpassword\\resetpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\resetpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\resetpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\forgotpassword\\forgotpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\forgotpassword\\forgotpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\users\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\users\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\users\\updateuser\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\users\\updateuser\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\verifyemailchange\\verifyemailchangecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\verifyemailchange\\verifyemailchangecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\verifyresetpasswordcode\\verifyresetpasswordcodecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\verifyresetpasswordcode\\verifyresetpasswordcodecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\verifyresetpasswordcode\\verifyresetpasswordcodecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\verifyresetpasswordcode\\verifyresetpasswordcodecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\entities\\orders\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\orders\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\entities\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\cart\\updatequantity\\updatequantitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\cart\\updatequantity\\updatequantitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\orders\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\orders\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Ratings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\controllers\\ratings\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\controllers\\ratings\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\ratings\\productratingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\ratings\\productratingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\results\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\results\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\cart\\updatequantity\\updatequantitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\cart\\updatequantity\\updatequantitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\setsponsoredproduct\\setsponsoredproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\setsponsoredproduct\\setsponsoredproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\users\\changepassword\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\users\\changepassword\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\setsponsoredproduct\\setsponsoredproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\setsponsoredproduct\\setsponsoredproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\setsponsoredproduct\\setsponsoredproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\setsponsoredproduct\\setsponsoredproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\entities\\products\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\products\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\users\\changepassword\\changepasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\users\\changepassword\\changepasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\users\\changepassword\\changepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\users\\changepassword\\changepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\controllers\\addresses\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\controllers\\addresses\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\addresses\\addaddress\\addaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\addresses\\addaddress\\addaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\addresses\\addaddress\\addaddressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\addresses\\addaddress\\addaddressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\addresses\\addaddress\\addaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\addresses\\addaddress\\addaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260324143725_quannn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260324143725_quannn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260324113551_imageadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260324113551_imageadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\addproduct\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\addproduct\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\addproduct\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\addproduct\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\addproduct\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\addproduct\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Carts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\login\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\login\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\interfaces\\security\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\interfaces\\security\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\cart\\removeitem\\removeitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\cart\\removeitem\\removeitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\updateprice\\updatepricecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\updateprice\\updatepricecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\removeproduct\\removeproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\removeproduct\\removeproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\removeproduct\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\removeproduct\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\orders\\updatestatus\\updatestatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\orders\\updatestatus\\updatestatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\cart\\removeitem\\removeitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\cart\\removeitem\\removeitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\cart\\removeitem\\removeitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\cart\\removeitem\\removeitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\e-commerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\e-commerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\orders\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\orders\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\cart\\additem\\additemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\cart\\additem\\additemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260318101203_finished.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260318101203_finished.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\projection\\graphql\\users\\addresstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\projection\\graphql\\users\\addresstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\enums\\orders\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\enums\\orders\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\enums\\users\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\enums\\users\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.domain\\guards\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E667671B-9280-42A9-8565-07B1EAB04B6D}|E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:e-commerce.domain\\guards\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\orders\\cancelorder\\cancelordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\orders\\cancelorder\\cancelordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.CartItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\ratings\\productratingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\ratings\\productratingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\ratings\\productratingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\ratings\\productratingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.OrderItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\cart\\additem\\additemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\cart\\additem\\additemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260310172457_ecommerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260310172457_ecommerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0FC58EA-BF6D-4B6D-86D8-DAA735D2A3B3}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\cart\\updatequantity\\updatequantityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\cart\\updatequantity\\updatequantityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\removeproduct\\removeproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\removeproduct\\removeproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\updateprice\\updatepricecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\updateprice\\updatepricecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\products\\updateprice\\updatepricerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\products\\updateprice\\updatepricerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\auth\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\auth\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\orders\\updatestatus\\updatestatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\orders\\updatestatus\\updatestatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.application\\features\\orders\\updatestatus\\updatestatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0F10E9-840B-4D35-AFA6-F8F420154B4F}|E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:e-commerce.application\\features\\orders\\updatestatus\\updatestatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260316103626_gela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260316103626_gela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260316094542_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260316094542_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260316125441_even.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260316125441_even.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260316105707_rename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260316105707_rename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260321141816_addemailverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260321141816_addemailverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260324102612_adddiscounttoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260324102612_adddiscounttoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260324102846_dodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260324102846_dodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260330225305_addaddressestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260330225305_addaddressestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260401193934_created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260401193934_created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260402105142_updatedd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260402105142_updatedd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260407203905_finishedd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260407203905_finishedd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\advanced projects\\e-commerce\\e-commerce.infrastructure\\migrations\\20260407133244_emailupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB1E42F-65BE-4C01-9B12-4F14FA4D0245}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260407133244_emailupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Security\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Security\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Security\\JwtSettings.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Security\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:25:32.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:09:19.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:37:16.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "E-Commerce.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\E-Commerce.Domain.csproj",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\E-Commerce.Domain.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\E-Commerce.Domain.csproj",
+              "RelativeToolTip": "E-Commerce.Domain\\E-Commerce.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T09:09:53.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Results\\Errors.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Results\\Errors.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Results\\Errors.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Results\\Errors.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA4wDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:13:37.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Program.cs",
+              "RelativeToolTip": "E-Commerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:30:56.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T20:29:14.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Extensions\\Core\\ApplicationExtensions.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Extensions\\Core\\ApplicationExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Extensions\\Core\\ApplicationExtensions.cs",
+              "RelativeToolTip": "E-Commerce\\Extensions\\Core\\ApplicationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:58:23.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\SMTP\\EmailService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\SMTP\\EmailService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\SMTP\\EmailService.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\SMTP\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:07:46.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Interfaces\\SMTP\\IEmailService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Interfaces\\SMTP\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Interfaces\\SMTP\\IEmailService.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Interfaces\\SMTP\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:07:08.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Extensions\\Core\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Extensions\\Core\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Extensions\\Core\\ServicesExtensions.cs",
+              "RelativeToolTip": "E-Commerce\\Extensions\\Core\\ServicesExtensions.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:58:55.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:08:10.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderQueries.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Orders\\OrderQueries.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Orders\\OrderQueries.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Orders\\OrderQueries.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Orders\\OrderQueries.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:56:56.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Orders\\OrderType.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Orders\\OrderType.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Orders\\OrderType.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Orders\\OrderType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:57:12.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "E-Commerce.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T11:55:41.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItemType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Orders\\OrderItemType.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Orders\\OrderItemType.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Orders\\OrderItemType.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Orders\\OrderItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:06:12.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CancelOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T20:12:40.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CancelOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderCommandHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:16:22.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Orders\\OrdersController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\Controllers\\Orders\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Orders\\OrdersController.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\Controllers\\Orders\\OrdersController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:59:45.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GraphqlExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Extensions\\GraphQL\\GraphqlExtensions.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Extensions\\GraphQL\\GraphqlExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Extensions\\GraphQL\\GraphqlExtensions.cs",
+              "RelativeToolTip": "E-Commerce\\Extensions\\GraphQL\\GraphqlExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:26:12.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Enums\\Products\\Category.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Enums\\Products\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Enums\\Products\\Category.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Enums\\Products\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:35:52.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Products\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Products\\Product.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Products\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:46:54.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-08T01:07:16.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductQueries.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Products\\ProductQueries.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Products\\ProductQueries.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Products\\ProductQueries.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Products\\ProductQueries.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwGMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:41:17.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Products\\ProductType.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Products\\ProductType.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Products\\ProductType.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Products\\ProductType.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:41:34.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserQueries.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Users\\UserQueries.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Users\\UserQueries.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Users\\UserQueries.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Users\\UserQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:34:02.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Products\\ProductsController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\Controllers\\Products\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Products\\ProductsController.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\Controllers\\Products\\ProductsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:29:22.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Users\\User.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Users\\User.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Users\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:06:52.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WishlistItemQueries.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\WishLists\\WishlistItemQueries.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\WishLists\\WishlistItemQueries.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\WishLists\\WishlistItemQueries.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\WishLists\\WishlistItemQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T20:24:12.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WishlistItemType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\WishLists\\WishlistItemType.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\WishLists\\WishlistItemType.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\WishLists\\WishlistItemType.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\WishLists\\WishlistItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T20:23:58.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartQueries.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Carts\\CartQueries.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Carts\\CartQueries.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Carts\\CartQueries.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Carts\\CartQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:28:02.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemCommandHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:01:57.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Cart\\CartController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\Controllers\\Cart\\CartController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Cart\\CartController.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\Controllers\\Cart\\CartController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T20:20:10.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:36:24.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Verification.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Common\\Verification.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Common\\Verification.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Common\\Verification.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Common\\Verification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T13:25:31.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmailVerification.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Auth\\EmailVerification.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Auth\\EmailVerification.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Auth\\EmailVerification.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Auth\\EmailVerification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T13:26:53.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Adress.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Users\\Adress.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Users\\Adress.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Users\\Adress.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Users\\Adress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:50:35.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "20260407203905_Finishedd.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260407203905_Finishedd.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260407203905_Finishedd.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260407203905_Finishedd.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260407203905_Finishedd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T20:39:05.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Data\\DataContext.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA6wAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:15:12.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Interfaces\\Persistence\\IDataContext.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Interfaces\\Persistence\\IDataContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Interfaces\\Persistence\\IDataContext.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Interfaces\\Persistence\\IDataContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:09:14.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ToggleWishlistHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\WishList\\ToggleWishlistHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\WishList\\ToggleWishlistHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\WishList\\ToggleWishlistHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\WishList\\ToggleWishlistHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAnwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T20:14:19.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartItemType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Carts\\CartItemType.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Carts\\CartItemType.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Carts\\CartItemType.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Carts\\CartItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:46:53.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CartType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Carts\\CartType.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Carts\\CartType.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Carts\\CartType.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Carts\\CartType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:28:11.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Carts\\CartItem.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Carts\\CartItem.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Carts\\CartItem.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Carts\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:24:28.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Carts\\Cart.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Carts\\Cart.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Carts\\Cart.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Carts\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:21:12.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WhishlistItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Wishlist\\WhishlistItem.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Wishlist\\WhishlistItem.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Wishlist\\WhishlistItem.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Wishlist\\WhishlistItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T20:07:47.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Users\\UserType.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Users\\UserType.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Users\\UserType.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Users\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:33:54.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Wishlist\\WishlistController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\Controllers\\Wishlist\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Wishlist\\WishlistController.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\Controllers\\Wishlist\\WishlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T20:20:21.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ToggleWishlistCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\WishList\\ToggleWishlistCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\WishList\\ToggleWishlistCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\WishList\\ToggleWishlistCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\WishList\\ToggleWishlistCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T20:14:07.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ToggleWishlistRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\WishList\\ToggleWishlistRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\WishList\\ToggleWishlistRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\WishList\\ToggleWishlistRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\WishList\\ToggleWishlistRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T20:17:36.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Users\\UsersController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\Controllers\\Users\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Users\\UsersController.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\Controllers\\Users\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:13:40.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "VerifyEmailCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyEmail\\VerifyEmailCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\VerifyEmail\\VerifyEmailCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyEmail\\VerifyEmailCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\VerifyEmail\\VerifyEmailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T14:24:39.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "VerifyEmailCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyEmail\\VerifyEmailCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\VerifyEmail\\VerifyEmailCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyEmail\\VerifyEmailCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\VerifyEmail\\VerifyEmailCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T14:24:59.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "VerifyEmailChangeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyEmailChange\\VerifyEmailChangeCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\VerifyEmailChange\\VerifyEmailChangeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyEmailChange\\VerifyEmailChangeCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\VerifyEmailChange\\VerifyEmailChangeCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:55:33.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ForgotPasswordCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\ForgotPassword\\ForgotPasswordCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\ForgotPassword\\ForgotPasswordCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\ForgotPassword\\ForgotPasswordCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\ForgotPassword\\ForgotPasswordCommandHandler.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:32:04.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ResetPasswordCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\ResetPassword\\ResetPasswordCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\ResetPassword\\ResetPasswordCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\ResetPassword\\ResetPasswordCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\ResetPassword\\ResetPasswordCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:33:20.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ResetPasswordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\ResetPassword\\ResetPasswordCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\ResetPassword\\ResetPasswordCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\ResetPassword\\ResetPasswordCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\ResetPassword\\ResetPasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:33:12.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ForgotPasswordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\ForgotPassword\\ForgotPasswordCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\ForgotPassword\\ForgotPasswordCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\ForgotPassword\\ForgotPasswordCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\ForgotPassword\\ForgotPasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:31:56.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:09:06.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Users\\UpdateUser\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:09:31.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "VerifyEmailChangeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyEmailChange\\VerifyEmailChangeCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\VerifyEmailChange\\VerifyEmailChangeCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyEmailChange\\VerifyEmailChangeCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\VerifyEmailChange\\VerifyEmailChangeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:55:20.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "VerifyResetPasswordCodeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyResetPasswordCode\\VerifyResetPasswordCodeCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\VerifyResetPasswordCode\\VerifyResetPasswordCodeCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyResetPasswordCode\\VerifyResetPasswordCodeCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\VerifyResetPasswordCode\\VerifyResetPasswordCodeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:48:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "VerifyResetPasswordCodeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyResetPasswordCode\\VerifyResetPasswordCodeCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\VerifyResetPasswordCode\\VerifyResetPasswordCodeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\VerifyResetPasswordCode\\VerifyResetPasswordCodeCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\VerifyResetPasswordCode\\VerifyResetPasswordCodeCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:48:39.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "20260407133244_EmailUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260407133244_EmailUpdate.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260407133244_EmailUpdate.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260407133244_EmailUpdate.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260407133244_EmailUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:32:44.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Orders\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Orders\\Order.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Orders\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:45:49.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Orders\\OrderItem.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Orders\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Orders\\OrderItem.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Orders\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:45:59.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UpdateQuantityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:21:41.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:42:00.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UpdateQuantityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:21:17.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Results.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Results\\Results.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Results\\Results.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Results\\Results.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Results\\Results.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:13:48.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "dbo.Ratings.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Ratings.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Ratings.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-03T19:04:16.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ProductRatingCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Ratings\\ProductRatingCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Ratings\\ProductRatingCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Ratings\\ProductRatingCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Ratings\\ProductRatingCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:23:22.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RatingsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Ratings\\RatingsController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\Controllers\\Ratings\\RatingsController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Ratings\\RatingsController.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\Controllers\\Ratings\\RatingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:41:51.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SetSponsoredProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:21:55.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "SetSponsoredProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:21:33.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "SetSponsoredProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\SetSponsoredProduct\\SetSponsoredProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:21:43.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:58:52.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "20260402105142_updatedd.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260402105142_updatedd.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260402105142_updatedd.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260402105142_updatedd.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260402105142_updatedd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:51:43.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Products\\Rating.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Products\\Rating.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Entities\\Products\\Rating.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Products\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:39:22.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "20260401193934_created.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260401193934_created.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260401193934_created.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260401193934_created.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260401193934_created.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:39:35.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "20260330225305_AddAddressesTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260330225305_AddAddressesTable.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260330225305_AddAddressesTable.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260330225305_AddAddressesTable.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260330225305_AddAddressesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:53:06.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ChangePasswordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:58:30.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ChangePasswordCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Users\\ChangePassword\\ChangePasswordCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:58:41.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AddAddressRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:51:29.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Addresses\\AddressesController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\Controllers\\Addresses\\AddressesController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\Addresses\\AddressesController.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\Controllers\\Addresses\\AddressesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:54:11.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AddAddressCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:47:21.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AddAddressCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Addresses\\AddAddress\\AddAddressCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:47:12.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20260324113551_ImageAdded.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260324113551_ImageAdded.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260324113551_ImageAdded.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260324113551_ImageAdded.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260324113551_ImageAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:35:52.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20260324143725_quannn.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260324143725_quannn.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260324143725_quannn.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260324143725_quannn.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260324143725_quannn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:37:25.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AddProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductCommandHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:57:27.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:01:22.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AddProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\AddProduct\\AddProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:57:15.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "20260324102612_AddDiscountToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260324102612_AddDiscountToProduct.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260324102612_AddDiscountToProduct.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260324102612_AddDiscountToProduct.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260324102612_AddDiscountToProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:26:12.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "20260324102846_dodo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260324102846_dodo.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260324102846_dodo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260324102846_dodo.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260324102846_dodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:28:46.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\Register\\RegisterCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\Register\\RegisterCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:37:01.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "dbo.Carts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Carts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Carts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-21T18:15:55.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "20260321141816_AddEmailVerification.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260321141816_AddEmailVerification.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260321141816_AddEmailVerification.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260321141816_AddEmailVerification.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260321141816_AddEmailVerification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T14:18:16.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Security\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Security\\JwtTokenService.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Security\\JwtTokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:26:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\Login\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\Login\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\Login\\LoginResponse.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\Login\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:42:40.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Interfaces\\Security\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Interfaces\\Security\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Interfaces\\Security\\IJwtTokenService.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Interfaces\\Security\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:27:45.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:18:07.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "RemoveItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:37:58.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "UpdatePriceCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:05:16.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "RemoveProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:50:35.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "RemoveProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:50:22.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "UpdateStatusCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusCommandHandler.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusCommandHandler.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:28:50.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "RemoveItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:37:33.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "RemoveItemRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Cart\\RemoveItem\\RemoveItemRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:37:44.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\appsettings.json",
+              "RelativeToolTip": "E-Commerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T13:25:30.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "E-Commerce.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\E-Commerce.Application.csproj",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\E-Commerce.Application.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\E-Commerce.Application.csproj",
+              "RelativeToolTip": "E-Commerce.Application\\E-Commerce.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-09T13:04:41.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:41:48.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "AddItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:01:40.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20260318101203_finished.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260318101203_finished.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260318101203_finished.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260318101203_finished.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260318101203_finished.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T10:12:03.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "AddressType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Users\\AddressType.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Projection\\GraphQL\\Users\\AddressType.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\Projection\\GraphQL\\Users\\AddressType.cs",
+              "RelativeToolTip": "E-Commerce\\Projection\\GraphQL\\Users\\AddressType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:41:40.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Enums\\Orders\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Enums\\Orders\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Enums\\Orders\\OrderStatus.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Enums\\Orders\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:46:51.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "20260316125441_Even.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260316125441_Even.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260316125441_Even.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260316125441_Even.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260316125441_Even.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:54:41.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Enums\\Users\\UserRoles.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Enums\\Users\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Enums\\Users\\UserRoles.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Enums\\Users\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:57:03.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Guards\\Guard.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Domain\\Guards\\Guard.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Domain\\Guards\\Guard.cs",
+              "RelativeToolTip": "E-Commerce.Domain\\Guards\\Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:13:13.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "CancelOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Orders\\CancelOrder\\CancelOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:16:06.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "ProductRatingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Ratings\\ProductRatingRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Ratings\\ProductRatingRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Ratings\\ProductRatingRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Ratings\\ProductRatingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:23:33.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ProductRatingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Ratings\\ProductRatingCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Ratings\\ProductRatingCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Ratings\\ProductRatingCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Ratings\\ProductRatingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:23:06.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "dbo.CartItems.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.CartItems.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.CartItems.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:12:55.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "dbo.OrderItems.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.OrderItems.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.OrderItems.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:40:12.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:37:04.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "dbo.Orders.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerce/True/SqlTable/dbo.Orders.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:23:34.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:31:04.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "AddItemRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Cart\\AddItem\\AddItemRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:31:06.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "20260316105707_Rename.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260316105707_Rename.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260316105707_Rename.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260316105707_Rename.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260316105707_Rename.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:57:07.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "20260316103626_gela.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260316103626_gela.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260316103626_gela.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260316103626_gela.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260316103626_gela.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:36:26.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "20260316094542_Updated.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260316094542_Updated.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260316094542_Updated.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260316094542_Updated.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260316094542_Updated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:45:42.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "20260310172457_Ecommerce.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260310172457_Ecommerce.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260310172457_Ecommerce.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\20260310172457_Ecommerce.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260310172457_Ecommerce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:24:57.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Infrastructure\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:26:13.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "E-Commerce\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce\\appsettings.Development.json",
+              "RelativeToolTip": "E-Commerce\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T09:21:26.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "UpdateQuantityRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Cart\\UpdateQuantity\\UpdateQuantityRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:21:58.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "RemoveProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\RemoveProduct\\RemoveProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:50:11.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "UpdatePriceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:05:02.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "UpdatePriceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Products\\UpdatePrice\\UpdatePriceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:05:39.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:36:10.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "UpdateStatusRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusRequest.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusRequest.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T20:05:19.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "UpdateStatusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusCommand.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusCommand.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Advanced Projects\\E-Commerce\\E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusCommand.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Features\\Orders\\UpdateStatus\\UpdateStatusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:28:37.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

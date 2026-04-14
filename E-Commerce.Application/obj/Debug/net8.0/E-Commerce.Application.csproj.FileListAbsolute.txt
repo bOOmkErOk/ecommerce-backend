@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Application.deps.json
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Application.dll
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Application.pdb
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Domain.dll
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Domain.pdb
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\obj\Debug\net8.0\E-Commer.B20A53FF.Up2Date
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.dll
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\obj\Debug\net8.0\refint\E-Commerce.Application.dll
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.pdb
+C:\Users\User\OneDrive\Desktop\Advanced Projects\E-Commerce\E-Commerce.Application\obj\Debug\net8.0\ref\E-Commerce.Application.dll
